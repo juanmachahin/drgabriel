@@ -1443,7 +1443,7 @@ footer {
 /* Clase para mostrar el botón de WhatsApp */
 .whatsapp-mostrado {
     opacity: 1;
-    bottom: 160px;
+    bottom: 130px;
     transition: all .3s ease-in-out;
     transition-property: bottom, opacity;
 }
