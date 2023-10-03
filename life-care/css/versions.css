@@ -197,9 +197,7 @@ body.clinic_version .section-title hr {
     background-color: #111;
 }
 
-body.clinic_version .section {
-    padding: 90px 0;
-}
+
 
 body.clinic_version .nopad {
     padding: 0 !important;

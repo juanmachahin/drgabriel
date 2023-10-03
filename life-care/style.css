@@ -489,7 +489,7 @@ li.social-links a {
     display: block;
     position: relative;
     overflow: hidden;
-    padding: 120px 0;
+
 }
 
 .noover {
@@ -2142,3 +2142,9 @@ select.mobile-device {
     border-color: rgba(255, 255, 255, 0.6);
     color: rgba(255, 255, 255, 0.6);
 }
+
+#home {
+    min-height: 100vh; /* Aumenta la altura mínima del contenedor al 100% de la altura de la ventana (viewport height). */
+    background-size: cover; /* Cambia a 'cover' para que la imagen se ajuste y cubra todo el contenedor. */
+  }
+
