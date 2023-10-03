@@ -468,7 +468,6 @@ li.social-links a {
     display: block;
     height: 100%;
     min-height: 100%;
-    overflow: hidden;
     position: relative;
     background-position: center center;
     vertical-align: sub;
@@ -488,7 +487,7 @@ li.social-links a {
 .section {
     display: block;
     position: relative;
-    overflow: hidden;
+
 
 }
 
